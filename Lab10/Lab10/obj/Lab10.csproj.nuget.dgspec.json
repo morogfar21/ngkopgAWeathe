@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\4. semester\\NGK\\WEBAPI\\Lab10\\Lab10\\Lab10.csproj": {}
+    "C:\\Users\\cendi\\OneDrive\\Dokumenter\\Marcusting\\Skoleting\\4.Semester\\IKNngk\\ngkopgAWeathe\\Lab10\\Lab10\\Lab10.csproj": {}
   },
   "projects": {
-    "C:\\4. semester\\NGK\\WEBAPI\\Lab10\\Lab10\\Lab10.csproj": {
+    "C:\\Users\\cendi\\OneDrive\\Dokumenter\\Marcusting\\Skoleting\\4.Semester\\IKNngk\\ngkopgAWeathe\\Lab10\\Lab10\\Lab10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\4. semester\\NGK\\WEBAPI\\Lab10\\Lab10\\Lab10.csproj",
+        "projectUniqueName": "C:\\Users\\cendi\\OneDrive\\Dokumenter\\Marcusting\\Skoleting\\4.Semester\\IKNngk\\ngkopgAWeathe\\Lab10\\Lab10\\Lab10.csproj",
         "projectName": "Lab10",
-        "projectPath": "C:\\4. semester\\NGK\\WEBAPI\\Lab10\\Lab10\\Lab10.csproj",
-        "packagesPath": "C:\\Users\\marti\\.nuget\\packages\\",
-        "outputPath": "C:\\4. semester\\NGK\\WEBAPI\\Lab10\\Lab10\\obj\\",
+        "projectPath": "C:\\Users\\cendi\\OneDrive\\Dokumenter\\Marcusting\\Skoleting\\4.Semester\\IKNngk\\ngkopgAWeathe\\Lab10\\Lab10\\Lab10.csproj",
+        "packagesPath": "C:\\Users\\cendi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cendi\\OneDrive\\Dokumenter\\Marcusting\\Skoleting\\4.Semester\\IKNngk\\ngkopgAWeathe\\Lab10\\Lab10\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\marti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\cendi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -46,11 +46,6 @@
               "target": "Package",
               "version": "[2.2.0, )",
               "autoReferenced": true
-            },
-            "Microsoft.AspNetCore.Razor.Design": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.2.0, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
