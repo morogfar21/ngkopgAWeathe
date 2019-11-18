@@ -37,3 +37,12 @@ C:\Users\cendi\OneDrive\Dokumenter\Marcusting\Skoleting\4.Semester\IKNngk\ngkopg
 C:\Users\cendi\OneDrive\Dokumenter\Marcusting\Skoleting\4.Semester\IKNngk\ngkopgAWeathe\Lab10\Lab10\obj\Debug\netcoreapp2.2\Lab10.AssemblyInfo.cs
 C:\Users\cendi\OneDrive\Dokumenter\Marcusting\Skoleting\4.Semester\IKNngk\ngkopgAWeathe\Lab10\Lab10\obj\Debug\netcoreapp2.2\Lab10.dll
 C:\Users\cendi\OneDrive\Dokumenter\Marcusting\Skoleting\4.Semester\IKNngk\ngkopgAWeathe\Lab10\Lab10\obj\Debug\netcoreapp2.2\Lab10.pdb
+C:\Users\cendi\OneDrive\Dokumenter\Marcusting\Skoleting\4.Semester\IKNngk\ngkopgAWeathe\Lab10\Lab10\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\cendi\OneDrive\Dokumenter\Marcusting\Skoleting\4.Semester\IKNngk\ngkopgAWeathe\Lab10\Lab10\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\cendi\OneDrive\Dokumenter\Marcusting\Skoleting\4.Semester\IKNngk\ngkopgAWeathe\Lab10\Lab10\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\cendi\OneDrive\Dokumenter\Marcusting\Skoleting\4.Semester\IKNngk\ngkopgAWeathe\Lab10\Lab10\bin\Debug\netcoreapp2.2\Lab10.deps.json
+C:\Users\cendi\OneDrive\Dokumenter\Marcusting\Skoleting\4.Semester\IKNngk\ngkopgAWeathe\Lab10\Lab10\bin\Debug\netcoreapp2.2\Lab10.runtimeconfig.json
+C:\Users\cendi\OneDrive\Dokumenter\Marcusting\Skoleting\4.Semester\IKNngk\ngkopgAWeathe\Lab10\Lab10\bin\Debug\netcoreapp2.2\Lab10.runtimeconfig.dev.json
+C:\Users\cendi\OneDrive\Dokumenter\Marcusting\Skoleting\4.Semester\IKNngk\ngkopgAWeathe\Lab10\Lab10\bin\Debug\netcoreapp2.2\Lab10.dll
+C:\Users\cendi\OneDrive\Dokumenter\Marcusting\Skoleting\4.Semester\IKNngk\ngkopgAWeathe\Lab10\Lab10\bin\Debug\netcoreapp2.2\Lab10.pdb
+C:\Users\cendi\OneDrive\Dokumenter\Marcusting\Skoleting\4.Semester\IKNngk\ngkopgAWeathe\Lab10\Lab10\obj\Debug\netcoreapp2.2\Lab10.RazorTargetAssemblyInfo.cache

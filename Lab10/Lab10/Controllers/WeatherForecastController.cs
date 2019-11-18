@@ -7,5 +7,6 @@ namespace Lab10.Controllers
 {
     public class WeatherForecastController
     {
+
     }
 }

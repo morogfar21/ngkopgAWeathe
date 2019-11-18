@@ -13,5 +13,6 @@ namespace Lab10.Model
             options) : base(options)
         { }
 
+        public DbSet<Lab10.Model.ApplicationUser> ApplicationUser { get; set; }
     }
 }
