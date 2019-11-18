@@ -3,7 +3,7 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/WEBAPI/Lab10/.vs/Lab10/v16/Server/sqlite3/db.lock
-/WEBAPI/Lab10/.vs/Lab10/v16/Server/sqlite3/storage.ide-shm
-/WEBAPI/Lab10/.vs/Lab10/v16/Server/sqlite3/storage.ide-wal
+/ngkopgAWeathe/Lab10/.vs/Lab10/v16/Server/sqlite3/db.lock
+/ngkopgAWeathe/Lab10/.vs/Lab10/v16/Server/sqlite3/storage.ide-shm
+/ngkopgAWeathe/Lab10/.vs/Lab10/v16/Server/sqlite3/storage.ide-wal
 .vs/
